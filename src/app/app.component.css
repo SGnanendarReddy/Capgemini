@@ -1,0 +1,9 @@
+p {
+    font-family: Lato;
+  }
+  div,label{
+    margin: 10px;
+  }
+  th{
+    width: 10px;;
+  }
